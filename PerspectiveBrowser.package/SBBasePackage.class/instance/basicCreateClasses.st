@@ -1,0 +1,3 @@
+factory
+basicCreateClasses
+	^ self subclassResponsibility

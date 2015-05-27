@@ -1,0 +1,3 @@
+accessing
+environmentClass
+	^ environmentClass

@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBMethodContainsFlagsAction",
+	"pools" : [
+		 ],
+	"super" : "SBMethodAction",
+	"type" : "normal" }

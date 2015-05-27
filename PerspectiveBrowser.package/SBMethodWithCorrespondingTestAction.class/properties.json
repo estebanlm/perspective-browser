@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-Actions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBMethodWithCorrespondingTestAction",
+	"pools" : [
+		 ],
+	"super" : "SBMethodIsTestAction",
+	"type" : "normal" }

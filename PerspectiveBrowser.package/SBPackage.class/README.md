@@ -1,0 +1,1 @@
+I'm a model for showing packages in system browser.

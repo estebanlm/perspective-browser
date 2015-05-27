@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"browserEnvironment" ],
+	"name" : "SBBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

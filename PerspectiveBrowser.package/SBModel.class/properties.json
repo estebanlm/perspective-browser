@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model" ],
+	"name" : "SBModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

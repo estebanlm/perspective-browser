@@ -1,0 +1,18 @@
+{
+	"category" : "PerspectiveBrowser-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"startingPackage",
+		"startingClass",
+		"startingInstanceSide",
+		"startingProtocol",
+		"startingMethod" ],
+	"name" : "SBStartingPath",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+handlesMethod: aMethod
+	^ true

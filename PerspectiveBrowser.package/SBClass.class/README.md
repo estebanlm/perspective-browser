@@ -1,0 +1,1 @@
+I'm a model to express classes in the system browser.
