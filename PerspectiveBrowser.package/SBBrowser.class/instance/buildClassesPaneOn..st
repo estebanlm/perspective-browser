@@ -1,8 +1,8 @@
 building
 buildClassesPaneOn: presenter
-	presenter list 
+	presenter fastList 
 		title: 'Classes';
 		display: [ :packageOrTag | packageOrTag classes ];
 		icon: [ :each | each actionOn: self ];
-		format: #displayName;
+		format: [ :each | each displayName ];
 		initialize: [ :list | list selection: SBStartingPath startingClassSelection ]

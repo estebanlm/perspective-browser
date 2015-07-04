@@ -2,7 +2,7 @@ accessing
 actionFor: aMethod target: aBrowser
 	| overrides overridden |	
 	
-	overrides := aMethod isOverride.
+	overrides := self class isOverrideMethod: aMethod.
 	overridden := aMethod isOverridden.
 	
 	(overrides and: [ overridden ]) ifTrue: [ 

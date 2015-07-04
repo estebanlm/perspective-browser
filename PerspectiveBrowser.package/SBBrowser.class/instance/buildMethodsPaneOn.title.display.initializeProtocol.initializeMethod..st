@@ -14,19 +14,19 @@ buildMethodsPaneOn: presenter
 		yourself.
 	
 	browser transmit to: #protocols; andShow: [ :a |
-		a list
+		a fastList
 			title: 'Protocols'; 
 			display: displayBlock;
 			icon: [ :each | each actionOn: self ];
-			format: #displayName;
+			format: [ :each | each displayName ];
 			initialize: protocolBlock ].
 		
 	browser transmit from: #protocols; to: #methods; andShow: [ :a | 
-		a list 
+		a fastList 
 			title: 'Methods';
 			display: [ :protocol | protocol methods ];
 			icon: [ :each | each actionOn: self ];
-			format: #displayName;
+			format: [ :each | each displayName ];
 			initialize: methodBlock ].
 		
 	browser transmit from: #methods; toOutsidePort: #selection.

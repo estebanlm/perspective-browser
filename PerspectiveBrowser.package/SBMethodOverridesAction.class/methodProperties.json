@@ -1,9 +1,10 @@
 {
 	"class" : {
-		"handlesMethod:" : "EstebanLorenzano 5/11/2015 16:25",
+		"handlesMethod:" : "EstebanLorenzano 6/19/2015 15:53",
+		"isOverrideMethod:" : "EstebanLorenzano 6/19/2015 15:53",
 		"priority" : "EstebanLorenzano 5/11/2015 16:25" },
 	"instance" : {
-		"actionFor:target:" : "EstebanLorenzano 5/11/2015 17:01",
+		"actionFor:target:" : "EstebanLorenzano 6/19/2015 15:54",
 		"iconOverriddenFor:target:" : "EstebanLorenzano 5/11/2015 16:33",
 		"iconOverrideAndOverriddenFor:target:" : "EstebanLorenzano 5/11/2015 16:38",
 		"iconOverrideFor:target:" : "EstebanLorenzano 5/11/2015 16:32" } }

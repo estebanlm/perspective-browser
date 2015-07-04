@@ -1,3 +1,4 @@
 testing
 handlesMethod: aMethod 
-	^ aMethod isClassInitializeMethod
+	^ (aMethod methodClass isMeta) 
+		and: [ aMethod selector = #initialize ] 

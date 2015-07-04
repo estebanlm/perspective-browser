@@ -1,3 +1,3 @@
 testing
 handlesMethod: aMethod
-	^ aMethod containsFlag
+	^ aMethod literals includesAnyOf: #( flag flag: )

@@ -1,3 +1,4 @@
 testing
 handlesMethod: aMethod
-	^ aMethod isOverridden or: [ aMethod isOverride ]
+	^ aMethod isOverridden 
+		or: [ self isOverrideMethod: aMethod ]

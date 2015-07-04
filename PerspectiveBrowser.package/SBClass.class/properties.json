@@ -9,7 +9,9 @@
 		"ancestor",
 		"instanceProtocols",
 		"classProtocols",
-		"ancestorLevel" ],
+		"ancestorLevel",
+		"classVariables",
+		"instanceVariables" ],
 	"name" : "SBClass",
 	"pools" : [
 		 ],

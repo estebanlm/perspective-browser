@@ -5,5 +5,5 @@ buildPackagesPaneOn: presenter
 		display: [ :env | env packages ];
 		children: [ :node | node children ]; 
 		icon: [ :each | each actionOn: self ];
-		format: #displayName;
+		format: [ :each | each displayName ];
 		initialize: [ :tree | tree selection: SBStartingPath startingPackageSelection ]

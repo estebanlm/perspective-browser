@@ -1,3 +1,3 @@
 testing
 isEmpty 
-	^ self model definedClasses isEmpty
+	^ self model definedClassNames isEmpty
