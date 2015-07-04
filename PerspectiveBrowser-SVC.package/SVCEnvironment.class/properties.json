@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-SVC-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"repositories" ],
+	"name" : "SVCEnvironment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

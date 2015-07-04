@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-SVC-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EstebanLorenzano 6/25/2015 15:58",
+	"instvars" : [
+		"svcEnvironment" ],
+	"name" : "SVCBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

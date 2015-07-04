@@ -1,0 +1,3 @@
+visitor
+visitCache: aRepository 
+	^ 'Cache'

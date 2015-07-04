@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-SVC-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SVCRepositoryVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

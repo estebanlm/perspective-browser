@@ -1,0 +1,2 @@
+I'm a visitor to traverse all repositories, no matter type, and provide an output of any kind. 
+I'm using this to no pollute repositories with many extension methods... no idea if this is a good idea or not, but so far it works :)

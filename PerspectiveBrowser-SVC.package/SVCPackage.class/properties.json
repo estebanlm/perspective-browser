@@ -1,0 +1,14 @@
+{
+	"category" : "PerspectiveBrowser-SVC-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SVCPackage",
+	"pools" : [
+		 ],
+	"super" : "SBModel",
+	"type" : "normal" }
